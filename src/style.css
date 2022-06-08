@@ -1,0 +1,23 @@
+nav a{
+    color: #0898A0 ;
+font-size: 16px;
+font-weight: 400;
+}
+h1{
+    font-weight: 700;
+    font-size: 56px;
+    color: #0898A0 ;
+}
+.phone img{
+    margin-left: 15em;
+    border-radius: 40px;
+   box-shadow: 0px 0px 32px -4px rgba(0,0,0,0.28);
+-webkit-box-shadow: 0px 0px 32px -4px rgba(0,0,0,0.28);
+-moz-box-shadow: 0px 0px 32px -4px rgba(0,0,0,0.28);
+}
+.brands{
+    justify-content: center;
+}
+.brands img{
+    
+}
